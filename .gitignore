@@ -1,0 +1,9 @@
+nginx/ssl/
+
+.env
+
+__pycache__/
+*.pyc
+*.pyo
+
+.docker/
